@@ -1,2 +1,2 @@
 # Rencana-Gogo-Healthcare
-Repository untuk menyimpan rencana Gogo Healthcare kedepannya
+Repository untuk menyimpan rencana Gogo Healthcare 
